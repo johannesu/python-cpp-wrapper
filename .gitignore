@@ -1,0 +1,9 @@
+.DS_STORE
+__pycache__
+*.pyc
+.idea/*
+*.egg-info/*
+*.swp
+*.so
+build/*
+boilerplate/*.cpp
