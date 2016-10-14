@@ -1,3 +1,7 @@
+.. image:: https://travis-ci.org/johannesu/python-cpp-wrapper.svg?branch=master
+    :target: https://travis-ci.org/johannesu/python-cpp-wrapper
+
+
 Boilerplate Python C++ wrapper
 ==============================
 
