@@ -14,7 +14,7 @@ cython = [Extension('utils',
 setup(
     name='boilerplate',
     packages=['boilerplate'],
-    version='0.0.1',
+    version='0.0.2',
     description="Python boilerplate project",
     license=open('LICENSE.rst').read(),
     # Setuptools 18.0 properly handles Cython extensions.

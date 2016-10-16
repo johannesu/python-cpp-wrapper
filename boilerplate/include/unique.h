@@ -1,4 +1,5 @@
 #pragma once
 #include <vector>
 
-std::vector<double> uniqueValues(std::vector<double> values);
+template<typename T>
+std::vector<T> uniqueValues(std::vector<T> values);
